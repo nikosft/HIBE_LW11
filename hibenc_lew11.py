@@ -8,7 +8,7 @@ Unbounded HIBE and Attribute-Based Encryption
 | Published in: Advances in Cryptology - EUROCRYPT 2012, Springer Berlin/Heidelberg, 2012
 | Available from: http://eprint.iacr.org/2011/490
 
-* type:           proxy encryption (identity-based)
+* type:           identity based encryption
 * setting:        bilinear groups (symmetric)
 
 :Authors:    N. Fotiou
