@@ -44,7 +44,7 @@ class HIBE_LW11:
 	>>> M = hibe.decrypt(CT, SK)
 	>>> print("Decrypted message with ID1:")
 	>>> print (M)
-    """
+	"""
 	def __init__(self, groupObj):
 		global group
 		group = groupObj
